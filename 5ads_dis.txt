@@ -1,0 +1,32 @@
+
+Kayleen Watkins
+Class 2
+List 5 advantages and disadvantages of V-methodologies
+Advantages
+1.Simple and easy to use.
+2.Saves alot of time.
+3. Defects are found at an early stage.
+4.Avoids the downward flow of the defects.
+5.Works well for small projects.
+
+Disadvantages
+1.Very rigid
+2.Least Flexible
+3.No early prototypes of the software is produced .
+4.If any changes happen in midway, then the test documents along with requirement documents has to be updated.
+5.Doesnt provide a clear path for problems found during testing phases.
+
+List 5 advantages and disadvantages of the protoype methodologies
+Advantages
+1.Reduced times and cost.
+2.Improved and increased user involement.
+3.Test usabilty to find problems.
+4.East to communicate with users.
+5.Improve the efficiency of product design
+
+Disadvantages
+1.Time consuming.
+2.Prototype design may constrain the designers ideas.
+3.Formal end of phase reviews might occur.
+4.System documentation is often absent or incomplete because primary focus is on development of the prototype.
+5.Security issues can be overlooked in the haste to develop a prototype.
